@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import random, time
 from timeit import default_timer as timer
 from datetime import timedelta
